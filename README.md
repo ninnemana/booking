@@ -1,2 +1,2 @@
-# booking
-Stumbling through gitbook
+# Booking
+Stumbling through git-book
